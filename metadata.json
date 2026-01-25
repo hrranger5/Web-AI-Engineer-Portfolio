@@ -1,0 +1,7 @@
+{
+  "name": "Web AI Engineer Portfolio",
+  "description": "Professional portfolio for Hafsa Raja, featuring Full-Stack development projects, AI integrations, and professional experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

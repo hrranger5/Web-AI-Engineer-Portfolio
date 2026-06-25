@@ -43,7 +43,7 @@ export const EXPERIENCE: Job[] = [
   {
     company: "Code Craft",
     role: "Software Development Intern",
-    period: "Oct 2025 – Present",
+    period: "Oct 2025 – Jan 2026",
     type: "Internship",
     description: [
       "Developing full stack applications using Python and Flask with a focus on scalable architecture.",
@@ -54,7 +54,7 @@ export const EXPERIENCE: Job[] = [
   {
     company: "Internee.pk",
     role: "Technical Intern",
-    period: "Sept 2025 – Present",
+    period: "Sept 2025 – Dec 2025",
     type: "Internship",
     description: [
       "Building AI-powered chatbots using Natural Language Processing techniques.",
@@ -65,7 +65,7 @@ export const EXPERIENCE: Job[] = [
   {
     company: "Arch Technologies",
     role: "Software Engineering Intern",
-    period: "Sept 2025 – Present",
+    period: "Sept 2025 – Nov 2025",
     type: "Internship",
     description: [
       "Designed and implemented secure backend systems emphasizing cybersecurity best practices.",

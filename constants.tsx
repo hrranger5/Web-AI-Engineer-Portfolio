@@ -65,7 +65,7 @@ export const EXPERIENCE: Job[] = [
   {
     company: "Arch Technologies",
     role: "Software Engineering Intern",
-    period: "Sept 2025 – Nov 2025",
+    period: "Sept 2025 – Dec 2025",
     type: "Internship",
     description: [
       "Designed and implemented secure backend systems emphasizing cybersecurity best practices.",

@@ -11,7 +11,7 @@ export const PROFILE = {
   linkedin: "https://www.linkedin.com/in/hafsa-raja-5224a8365/",
   github: "https://github.com/hrranger5",
   instagram: "https://www.instagram.com/webaitechexpert/",
-  resumeLink: "https://drive.google.com/file/d/1QnGmp5TtCsYFPiLSps9c-XYvP8qNWUKQ/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1pmYRVLEt4T6Y4GtpB_2v45xD-P_DVk1q/view?usp=sharing",
   profilePic: "https://lh3.googleusercontent.com/d/1g8TQHmlFHEbMQwF9oTjsAOrho8DUnlln",
   location: "Mandi Bahauddin, Punjab, Pakistan"
 };

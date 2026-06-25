@@ -75,7 +75,7 @@ export const EXPERIENCE: Job[] = [
   {
     company: "Academic Mentorship",
     role: "Final Year Project Advisor",
-    period: "2023 – Present",
+    period: "2023 – 2024",
     type: "Part-time / Community",
     description: [
       "Guided students from various colleges on their Final Year Projects (FYP), providing technical roadmaps for MERN & AI apps.",
